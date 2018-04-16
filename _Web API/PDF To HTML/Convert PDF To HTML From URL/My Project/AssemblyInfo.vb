@@ -10,36 +10,38 @@
 '*****************************************************************************************'
 
 
+Imports System
 Imports System.Reflection
-Imports System.Runtime.CompilerServices
 Imports System.Runtime.InteropServices
 
-' General Information about an assembly is controlled through the following 
+' General Information about an assembly is controlled through the following
 ' set of attributes. Change these attribute values to modify the information
 ' associated with an assembly.
-<Assembly: AssemblyTitle("ExtractHTMLFromPage")> 
-<Assembly: AssemblyDescription("")>
-<Assembly: AssemblyConfiguration("")>
-<Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("ExtractHTMLFromPage")> 
-<Assembly: AssemblyCopyright("Copyright ©  2010")>
-<Assembly: AssemblyTrademark("")>
-<Assembly: AssemblyCulture("")>
 
-' Setting ComVisible to false makes the types in this assembly not visible 
-' to COM components.  If you need to access a type in this assembly from 
-' COM, set the ComVisible attribute to true on that type.
+' Review the values of the assembly attributes
+
+<Assembly: AssemblyTitle("ByteScoutWebApiExample")>
+<Assembly: AssemblyDescription("")>
+<Assembly: AssemblyCompany("")>
+<Assembly: AssemblyProduct("ByteScoutWebApiExample")>
+<Assembly: AssemblyCopyright("Copyright ©  2017")>
+<Assembly: AssemblyTrademark("")>
+
 <Assembly: ComVisible(False)>
 
-' The following GUID is for the ID of the typelib if this project is exposed to COM
-<Assembly: Guid("90c92623-11ae-4ddb-9982-80552a4cc3f5")>
+'The following GUID is for the ID of the typelib if this project is exposed to COM
+<Assembly: Guid("95e4dee2-7121-4d99-a049-eaa5c84c70f7")>
 
 ' Version information for an assembly consists of the following four values:
 '
 '      Major Version
-'      Minor Version 
+'      Minor Version
 '      Build Number
 '      Revision
 '
+' You can specify all the values or you can default the Build and Revision Numbers
+' by using the '*' as shown below:
+' <Assembly: AssemblyVersion("1.0.*")>
+
 <Assembly: AssemblyVersion("1.0.0.0")>
 <Assembly: AssemblyFileVersion("1.0.0.0")>
