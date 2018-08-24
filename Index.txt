@@ -1,5 +1,4 @@
-## Index of source code examples
-
+## Index of source code examples:
 
 \PDF To HTML (simple layout) from all pages
 \PDF To HTML (simple layout) from page
