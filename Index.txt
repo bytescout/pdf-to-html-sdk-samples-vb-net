@@ -1,7 +1,7 @@
 ## Index of source code examples:
 
-\convert PDF To HTML (simple layout) from all pages
-\convert PDF To HTML (simple layout) from page
-\convert PDF To HTML (with layout) from all pages
-\convert PDF To HTML (with layout) from page
-\Reduce Memory Usage in pdf to html
+\Convert PDF To HTML (Complex Layout) From All Pages
+\Convert PDF To HTML (Complex Layout) From Page
+\Convert PDF To HTML (Simple Layout) From All Pages
+\Convert PDF To HTML (Simple Layout) From Page
+\Reduce Memory Usage During PDF to HTML Conversion
