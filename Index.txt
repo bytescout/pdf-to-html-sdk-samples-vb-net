@@ -4,4 +4,5 @@
 \Convert PDF To HTML (Complex Layout) From Page
 \Convert PDF To HTML (Simple Layout) From All Pages
 \Convert PDF To HTML (Simple Layout) From Page
+\Download and Process file
 \Reduce Memory Usage During PDF to HTML Conversion
